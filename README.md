@@ -1,4 +1,4 @@
-# Clustering Mini Project — Wholesale Customer Segmentation
+# Clustering Mini Project - Wholesale Customer Segmentation
 
 This repository contains four individual clustering analyses completed by the team using the **Wholesale Customers Dataset**.
 
